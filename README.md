@@ -7,9 +7,9 @@
 
 To get started with Google OAuth locally, follow these steps:
 
-1. Clone this repository `git clone https://github.com/morshedul-antor/google-oauth.git`
+- Clone this repository `git clone https://github.com/morshedul-antor/google-oauth.git`
 
-### 3. Backend
+### Backend
 
 At first create:
 `client_id` and `client_secrect` from google console, copy the value and paste it into the
@@ -28,7 +28,7 @@ python3 main.py
 
 Access the `Fastapi` server at `http://localhost:8000`
 
-### 4. Frontend
+### Frontend
 
 Run this steps at `google-oauth/frontend`:
 
